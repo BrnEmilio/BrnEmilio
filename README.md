@@ -51,6 +51,10 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brnemilio&show_icons=true&locale=en&layout=compact" alt="Ultimas contribuições" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brnemilio&show_icons=true&locale=en" alt="brnemilio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brnemilio&" alt="brnemilio" /></p>
+
 <!--
 
 ## Hi there 👋
