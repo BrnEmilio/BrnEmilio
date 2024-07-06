@@ -9,7 +9,7 @@
 
 - 🤝 Estou procurando ajuda com **desenvolvedores de software**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no GIT [https://github.com/BrnEmilio](https://github.com/BrnEmilio)
+- 👨‍💻 Todos os meus projetos estão disponíveis no GIT aba repositório.
 
 - 📝 Eu escrevo artigo científicos em fontes de pesquisa IEEE, Spring, Scopus, Biblioteca USP [http://lattes.cnpq.br/9874906697107766](http://lattes.cnpq.br/9874906697107766)
 
