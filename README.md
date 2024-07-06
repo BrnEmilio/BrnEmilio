@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no GIT aba repositório.
 
-- 📝 Eu escrevo artigo científicos em fontes de pesquisa IEEE, Spring, Scopus, Biblioteca USP [http://lattes.cnpq.br/9874906697107766](http://lattes.cnpq.br/9874906697107766)
+- 📝 Eu escrevo artigo científicos em fontes de pesquisa IEEE, Spring, Scopus, Biblioteca USP
 
 - 💬 Me pergunte sobre **C#, Troubleshooting (Dump, Counter e Coverage), Observability, Confiabilidade e Desafios do desenvolmento de software acessíveis**
 
@@ -23,8 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brnemilio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brnemilio/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@brunnoemb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@brunnoemb" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/brnemilio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brnemilio/" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@brunnoemb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@brunnoemb" height="30" width="40" /></a>
+  <a href="http://lattes.cnpq.br/9874906697107766](http://lattes.cnpq.br/9874906697107766" target="blank"><img align="center" src="https://memoria.cnpq.br/Portal-Lattes-theme/images/logo-lattes.png" alt="Plataforma Lattes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
