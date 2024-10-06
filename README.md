@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Bruno Emílio</h1>
 <h3 align="center">Apaixonado por desenvolvimento de softwares, Acessibilidade digital e Ciências da computação</h3>
 
-- 🔭 Atualmente estou trabalhando com engenharia de software no mercado financeiro e conduzindo pesquisas sobre acessibilidade digital na USP.. **https://www5.usp.br/**
+- 🔭 Atualmente estou trabalhando com engenharia de software no mercado financeiro e conduzindo pesquisas sobre acessibilidade digital na USP para o mundo 🌎.. **https://www5.usp.br/**
 
-- 🌱 Estou aprendendo sobre **Os impacto da IA no desenvolvimento de software e contribuindo como pesquisador na mundo.**
+- 🌱 Estou aprendendo sobre **Os impacto da IA no desenvolvimento de software e contribuindo como pesquisador.**
 
 - 👯 Também estou compartilhando conhecimento no Youtube sobre acessibilidade e confiabilidade de software **Canal Youtube**
 
